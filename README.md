@@ -1,5 +1,5 @@
 # Excelerator
-Transfers a picture file(.png) to an Excel art(.xlsx)
+Transfers a image file(.png) to an Excel art(.xlsx)
 
 # Example
 | Input            |  Output |
