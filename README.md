@@ -3,6 +3,10 @@ Transfers a image file(.png) to an Excel art(.xlsx)
 
 # How to use
 The user should provide the pre-existing ```Input Image Filename``` and the ```Output Excel Filename```
+
+~inline arguments? XD maybe later~
+
+
 ![image](https://user-images.githubusercontent.com/48399106/128846379-71c9563d-9fd0-4f40-9cf5-6e2b44ca9019.png)
 
 # Example
